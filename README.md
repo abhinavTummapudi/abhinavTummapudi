@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhinav (@abhinavTummapudi), currently working as a full stack developer at Tata consultancy servies.
-- 👀 I’m interested in Artificial intelligence, Machine learning, Deeplearning.
+- 👀 I’m mad for Artificial intelligence, Machine learning, Deeplearning.
 - 🌱 I’m currently learning or diving into the core of AI.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Hunger for learning...
 - 📫 You guys can reach me out at http://www.abhinav-t.ml/. This is my website "BE ACQUAINTED WITH" (still in the development phase).
 
 <!---
