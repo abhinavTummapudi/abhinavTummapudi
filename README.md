@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhinav (@abhinavTummapudi), currently working as a full stack developer in Tata consultancy servies.
+- 👋 Hi, I’m Abhinav (@abhinavTummapudi), currently working as a full stack developer at Tata consultancy servies.
 - 👀 I’m interested in Artificial intelligence, Machine learning, Deeplearning.
 - 🌱 I’m currently learning or diving into the core of AI.
 - 💞️ I’m looking to collaborate on ...
